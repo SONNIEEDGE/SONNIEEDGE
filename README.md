@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SONNIEEDGE
 - 👀 I’m interested in Music, coding.
-- 🌱 I’m currently learning HTML,CSS, JAVA, Python
+- 🌱 I’m currently learning HTML,CSS, JAVA, Python, C# .NET
 - 💞️ I’m looking to collaborate on ...any projects
   
 - 📫 How to reach me ...
